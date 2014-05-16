@@ -28,3 +28,5 @@ export CLASSPATH=jar包全路径
 exec app_process /system/bin 完整类路径 传给main函数的参数列表
 
 即要搬家的包名和搬家到的位置(0:自动 1:内存 2:sd) 可以作为main函数的参数传进去
+
+7、后续有时间还会新增功能
