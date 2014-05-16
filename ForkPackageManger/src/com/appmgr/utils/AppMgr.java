@@ -1,5 +1,7 @@
 package com.appmgr.utils;
 
+/** author changqiang **/
+/** email  hcq0618@163.com **/
 import java.lang.reflect.Method;
 
 import android.content.pm.PackageManager;
