@@ -1,4 +1,4 @@
-Android-ForkPackageManager
+Android-MovingApp
 ==========================
 
 包含应用搬家功能的开源库  include package move feature's lib
